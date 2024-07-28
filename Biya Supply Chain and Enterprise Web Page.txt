@@ -1,0 +1,17 @@
+<header>
+    <div class="container">
+        <div class="logo">
+            <img src="path/to/logo.png" alt="Biya Supply Chain and Enterprise Pty Ltd Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#vision-mission">Vision & Mission</a></li>
+                <li><a href="#core-values">Core Values</a></li>
+                <li><a href="#business-strategy">Business Strategy</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
